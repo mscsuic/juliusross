@@ -5,7 +5,7 @@ title: Homepage of Julius Ross
 <header class="page-banner">
   <figure>
     <img
-      src="/images/islington-street.jpg"
+      src="islington.jpg"
       alt="Residential street in Islington, London, with a green corner building"
       width="1600"
       height="400"
