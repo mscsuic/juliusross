@@ -2,6 +2,21 @@
 title: Homepage of Julius Ross
 ---
 
+<header class="page-banner">
+  <figure>
+    <img
+      src="/images/islington-street.jpg"
+      alt="Residential street in Islington, London, with a green corner building"
+      width="1600"
+      height="400"
+      loading="eager"
+    />
+    <figcaption class="visually-hidden">
+      Street in Islington where the author lived during graduate school.
+    </figcaption>
+  </figure>
+</header>
+
 I am a Professor in the
 [Department of Mathematics, Statistics and Computer Science](https://www.math.uic.edu/)
 at the
