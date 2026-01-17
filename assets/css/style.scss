@@ -9,8 +9,9 @@
 
 #header_wrap.outer {
   background-image: url('../../islington.jpg');  /* Path to your image */
-  background-size: contain; /* Makes image cover the div */
+  background-size: 100% 100%; /* Makes image cover the div */
   background-position: center; /* Centers the image */
   background-repeat: no-repeat; /* Prevents tiling */
   width: 100%;
+  height: 200px;
 }
