@@ -1,5 +1,5 @@
 ---
-title: Homepage of Julius Ross
+title: Julius Ross
 ---
 <p align="center">
 <img alt="A street in Islington" src="islington.jpg" width="500px" height="300px">
