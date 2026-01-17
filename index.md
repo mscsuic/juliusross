@@ -2,6 +2,8 @@
 title: Homepage of Julius Ross
 ---
 
+![A street in Islington](islington.jpg)
+
 I am a Professor in the
 [Department of Mathematics, Statistics and Computer Science](https://www.math.uic.edu/)
 at the
