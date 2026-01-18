@@ -1,4 +1,7 @@
+{% include mathjax.html %}
+
 # Research
+
 <script>
 window.MathJax = {
   tex: {
