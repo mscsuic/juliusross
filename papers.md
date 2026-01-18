@@ -1,4 +1,8 @@
 {% include mathjax.html %}
+---
+layout: default
+---
+
 
 # Research
 
