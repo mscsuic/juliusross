@@ -6,17 +6,6 @@ layout: default
 
 # Research
 
-<script>
-window.MathJax = {
-  tex: {
-    inlineMath: [['$', '$'], ['\\(', '\\)']],
-    displayMath: [['$$', '$$'], ['\\[', '\\]']]
-  },
-  svg: { fontCache: 'global' }
-};
-</script>
-<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js"></script>
-
 ## [43] Generalized Bogomolov Inequalities  
 **with M. Pavel and M. Toma**  
 **Preprint:** https://arxiv.org/abs/2510.04663
