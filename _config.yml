@@ -13,35 +13,35 @@ navigation:
     link: ./
 
   - name: Research
-    link: ./research.html
+    link: ./research
     sublist:
       - name: Papers
-        link: ./papers.md
+        link: ./papers
       - name: Software
-        link: ./software.md
+        link: ./software
 
   - name: Teaching
-    link: ./teaching.html
+    link: ./teaching
 
   - name: Advising
-    link: ./advising.html
+    link: ./advising
     sublist:
       - name: Undergraduate
-        link: ./undergraduate.md
+        link: ./undergraduate
       - name: Graduate
-        link: ./graduate.md
+        link: ./graduate
 
   - name: Activities
-    link: ./activities.html
+    link: ./activities
     sublist:
       - name: Past Activities
-        link: ./pastactivities.md
+        link: ./pastactivities
 
   - name: Other
-    link: ./other.html
+    link: ./other
     sublist:
       - name: Pets
-        link: ./pets.md
+        link: ./pets
       - name: Movies
-        link: ./movies.md
+        link: ./movies
 
