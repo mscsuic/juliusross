@@ -1,4 +1,4 @@
-i---
+---
 title: Julius Ross
 layout: default
 ---
