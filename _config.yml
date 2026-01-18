@@ -1,14 +1,6 @@
-jekyll-remote-theme: vaibhavvikas/jekyll-theme-minimalistic
 title: Professor Julius Ross 
 description: University of Illinois Chicago
 plugins:
   - jekyll-remote-theme
+jekyll-remote-theme: vaibhavvikas/jekyll-theme-minimalistic
 
-navigation:
-  - name: About
-    link: ./index.html
-    sublist:
-      - name: Image
-        link: ./index.html#small-image
-  - name: Teachihng
-    link: ./teaching.html
