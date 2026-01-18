@@ -1,6 +1,9 @@
-title: Professor Julius Ross 
-description: University of Illinois Chicago
-plugins:
-  - jekyll-remote-theme
-jekyll-remote-theme: vaibhavvikas/jekyll-theme-minimalistic
+remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 
+title: Minimalistic
+description: Minimalistic is a theme powered by Jekyll.
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
