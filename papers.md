@@ -1,7 +1,7 @@
-{% include mathjax.html %}
 ---
 layout: default
 ---
+{% include mathjax.html %}
 
 
 # Research
