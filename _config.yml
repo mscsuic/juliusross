@@ -11,27 +11,32 @@ plugins:
 navigation:
   - name: About
     link: ./
+
   - name: Research
     link: ./research.html
     sublist:
-    - name: Papers
+      - name: Papers
         link: ./papers.md
-    - name: Software
+      - name: Software
         link: ./software.md
+
   - name: Teaching
     link: ./teaching.html
+
   - name: Advising
-    link: ./advsing.html
+    link: ./advising.html
     sublist:
-    - name: Undergraduate
+      - name: Undergraduate
         link: ./undergraduate.md
-    - name: Graduate
+      - name: Graduate
         link: ./graduate.md
+
   - name: Activities
     link: ./activities.html
     sublist:
-    - name: Past Activities
+      - name: Past Activities
         link: ./pastactivities.md
+
   - name: Other
     link: ./other.html
     sublist:
@@ -39,4 +44,4 @@ navigation:
         link: ./pets.md
       - name: Movies
         link: ./movies.md
-    
+
