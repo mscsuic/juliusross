@@ -1,5 +1,6 @@
 ---
 title: Julius Ross
+layout: default
 ---
 <p align="center">
 <img alt="A street in Islington" src="islington.jpg" width="500px" height="300px">
