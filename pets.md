@@ -27,7 +27,7 @@ Having worn us down, Wispa is now allowed outside again which she does only when
 **Update (March 2019)**  
 Wispa went out and got lost for two days. She was found only after a concerted effort from what felt like the entire of Bucktown following a plea for help on Facebook. I never again want to hear complaints about the ills of social media.
 
-<img src="media/wispa" alt="The cat called Wispa" width="400">
+<img src="media/wispa.jpg" alt="The cat called Wispa" width="400">
 
 **Update (June 2020)**  
 It is at all clear that Wispa enjoys having the entire family around 24 hours a day, seven days a week.
