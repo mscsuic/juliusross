@@ -30,7 +30,8 @@ navigation:
         link: ./undergraduate
       - name: Graduate
         link: ./graduate
-
+      - name: Readings
+        link: ./readings
   - name: Activities
     link: ./activities
     sublist:
