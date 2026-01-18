@@ -4,9 +4,9 @@ description: University of Illinois Chicago
 
 navigation:
   - name: About
-    link: ./index.md
+    link: ./index.html
     sublist:
       - name: Image
         link: ./index.html#small-image
   - name: Teachihng
-    link: ./teaching.md
+    link: ./teaching.html
