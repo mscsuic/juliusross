@@ -3,23 +3,40 @@ remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 title: Julius Ross
 description: Mathematician
 
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
+  
 navigation:
-  - name: Home Page
+  - name: About
     link: ./
+  - name: Research
+    link: ./research.html
     sublist:
-      - name: Usage
-        link: ./#usage
-      - name: Customizing
-        link: ./#customizing
-      - name: Customizing Sidebar
-        link: ./#customizing-sidebar
-      - name: Navigation
-        link: ./#navigation
-      - name: Example
-        link: ./#example
-      - name: Stylesheet
-        link: ./#stylesheet
-      - name: Credits
-        link: ./#credits
+    - name: Papers
+        link: ./papers.md
+    - name: Software
+        link: ./software.md
   - name: Teaching
     link: ./teaching.html
+  - name: Advising
+    link: ./advsing.html
+    sublist:
+    - name: Undergraduate
+        link: ./undergraduate.md
+    - name: Graduate
+        link: ./graduate.md
+  - name: Activities
+    link: ./activities.html
+    sublist:
+    - name: Past Activities
+        link: ./pastactivities.md
+  - name: Other
+    link: ./other.html
+    sublist:
+      - name: Pets
+        link: ./pets.md
+      - name: Movies
+        link: ./movies.md
+    
