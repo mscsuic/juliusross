@@ -1,8 +1,6 @@
 # Readings
 
-I collect here various sources that I have found useful as a teacher, researcher, administrator, human ...  
-I do not endorse or comment on them, and the categories are not meant to be precise.  
-The only criteria to be here is that I found them thought provoking at the time I dealt with them.
+I collect here various sources that I have found useful as a teacher, researcher, administrator, human ...   I do not endorse or comment on them, and the categories are not meant to be precise.  The only criteria to be here is that I found them thought provoking at the time I dealt with them.
 
 ## Administration and Higher Education
 
