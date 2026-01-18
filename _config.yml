@@ -1,9 +1,6 @@
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 
-title: Minimalistic
-description: Minimalistic is a theme powered by Jekyll.
+title: Julius Ross
+description: Mathematician
 
-plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jemoji
+
