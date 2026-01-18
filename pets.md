@@ -35,8 +35,4 @@ We got a lockdown pup (to arrive December 30th). He is a miniature Australian Sh
 At the ripe old age of about 20 (which is 93 in human years) Wispa has some kind of stroke and quickly became immobilized. I was pleased to have her for those last days; she will be forever missed.
 
 **Update (June 2024)**  
-Lesson learned: dogs are more expensive that you could possibly imagine (but still worth it). Only complaint is that he’s learned to bark!
-
----
-
-*Work in this website is partially supported by National Science Foundation CAREER grant “Stability, Kähler geometry and the Hele-Shaw flow” DMS 1749447 and National Science Foundation grant “Analytic Methods in Complex Algebraic Geometry” DMS 1707661*  
+Lesson learned: dogs are more expensive that you could possibly imagine (but still worth it). Only complaint is that he’s learned to bark!  
