@@ -27,7 +27,7 @@ I collect here various sources that I have found useful as a teacher, researcher
 ## Mathematics
 
 - **A Conversation on Professional Norms in Mathematics**, Mathilde Gerbelli‑Gauthier, Pamela E. Harris, Michael A. Hill, Emily Riehl — [Goodreads](https://www.goodreads.com/search?q=A+Conversation+on+Professional+Norms+in+Mathematics)
-- **Mathematics, Morally**, Eugenia Cheng — [Google Search](https://www.google.com/search?q=Mathematics+Morally+Eugenia+Cheng)
+- **Mathematics, Morally**, Eugenia Cheng 
 - **Letters to a Young Mathematician: Art of Mentoring**, Ian Stewart — [Goodreads](https://www.goodreads.com/book/show/320527.Letters_to_a_Young_Mathematician)
 - **How to write mathematics**, Norman Earl Steenrod, Paul R. Halmos, Menahem M. Schiffer, Jean Alexandre Dieudonné — [Goodreads](https://www.goodreads.com/search?q=How+to+write+mathematics+Steenrod+Halmos+Schiffer+Dieudonne)
 - **How to write mathematics badly**, Jean Pierre Serre — [YouTube](https://www.youtube.com)
