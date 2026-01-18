@@ -37,9 +37,8 @@ We got a lockdown pup (to arrive December 30th). He is a miniature Australian Sh
 
 <img src="media/shelford.jpg" alt="The puppy Shelford chewing on a Graduate Text in Mathematics book" width="400">
 
-
-## Update (March 2023)**  
+## Update (March 2023)
 At the ripe old age of about 20 (which is 93 in human years) Wispa has some kind of stroke and quickly became immobilized. I was pleased to have her for those last days; she will be forever missed.
 
-**Update (June 2024)**  
+**Update (June 2024)  
 Lesson learned: dogs are more expensive that you could possibly imagine (but still worth it). Only complaint is that he’s learned to bark!  
