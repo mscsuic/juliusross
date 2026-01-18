@@ -1,3 +1,8 @@
+---
+title: Julius Ross
+layout: default
+---
+
 # Pets
 
 I have had two cats and a dog. These are their stories…
