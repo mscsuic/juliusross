@@ -3,7 +3,6 @@ layout: default
 ---
 {% include mathjax.html %}
 
-
 # Research
 
 ## [43] Generalized Bogomolov Inequalities  
@@ -396,3 +395,4 @@ We analyze which test configurations are needed for K‑stability and give a geo
 **Preprint:** https://arxiv.org/abs/math/0412518
 
 We introduce slope stability for manifolds and give examples of slope‑stable and slope‑unstable polarized manifolds.
+``
