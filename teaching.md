@@ -28,7 +28,7 @@ In Spring 2026 I am teaching MATH313 (Real Analysis).  Information about the cou
 
 - Fall 2018: MATH 310: Applied Linear Algebra
 
-- ## Handouts and other resources
+## Handouts and other resources
 
 Content here is archived and the documents may not be accessible.
 
