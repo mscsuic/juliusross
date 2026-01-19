@@ -11,7 +11,7 @@ layout: default
 
 We introduce two notions, the first notion being a Hodge-Riemann pair and the second notion is that of a Bogomolov Pair. In both cases this can be either a pair of cohomology classes or a pair of forms; for simplicity in this summary we just consider the case of classes.
 
-A Hodge-Riemann pair consists of a pair of cohomology classes on a compact Kahler manifold (or projective manifold) that generalizes the Hodge-Riemann property on \(H^{1,1}(X)\). A Bogomolov pair is a pair of cohomology classes that generalizes the classical Bogomolov-Gieseker inequality for semistable sheaves.
+A Hodge-Riemann pair consists of a pair of cohomology classes on a compact Kahler manifold (or projective manifold) that generalizes the Hodge-Riemann property on $H^{1,1}(X)$. A Bogomolov pair is a pair of cohomology classes that generalizes the classical Bogomolov-Gieseker inequality for semistable sheaves.
 
 We list known Hodge-Riemann pairs and show that nearly all are also Bogomolov pairs, conjecturing this is always true.
 
