@@ -9,7 +9,7 @@ layout: default
 **with M. Pavel and M. Toma**  
 **Preprint:** [arXiv:2510.04663](https://arxiv.org/abs/2510.04663)
 
-We introduce two notions, the first notion being a Hodge-Riemann pair and the second notion is that of a Bogomolov Pair. In both cases this can be either a pair of cohomology classes or a pair of forms; for simplicity in this summary we just consider the case of classes.
+We introduce two notions, the first being a Hodge-Riemann pair and the second is that of a Bogomolov Pair. In both cases this can be either a pair of cohomology classes or a pair of forms; for simplicity in this summary we just consider the case of classes.
 
 A Hodge-Riemann pair consists of a pair of cohomology classes on a compact Kahler manifold (or projective manifold) that generalizes the Hodge-Riemann property on $H^{1,1}(X)$. A Bogomolov pair is a pair of cohomology classes that generalizes the classical Bogomolov-Gieseker inequality for semistable sheaves.
 
@@ -71,11 +71,15 @@ is positive, in the sense that $p(x_1,\ldots,x_n) \ge 0$ whenever $x_1,\ldots,x_
 
 In this paper we conjecture that actually a much stronger log-concavity condition holds, namely that $p$ is always Schur positive, and we prove this conjecture for certain partitions $\lambda$ and verify it numerically for other partitions.
 
+Update: This conjecture has been proved by Lu-Zheng [arXiv:2506.16992](https://arxiv.org/abs/2506.16992).
+
+
 ---
 
 ## [38] Harmonic Interpolation and a Brunn-Minkowski Theorem for Random Determinants  
 **with D. Witt Nyström**  
-**Preprint:** https://arxiv.org/abs/2310.09697
+**In Convex and Complex: Perspectives on Positivity in Geometry, Publication: Contemporary Mathematics Publication Year: 2025; Volume 810**
+**Preprint:** [arXiv:2310.09697](https://arxiv.org/abs/2310.09697)
 
 This builds on [36]. We give a self-contained description of our harmonic interpolation of convex bodies, and prove a strong form of the Brunn–Minkowski inequality and characterize its equality case. As an application we improve a theorem of Berndtsson on the volume of slices of a pseudoconvex domain. We furthermore apply this to prove subharmonicity of the expected absolute value of the determinant of a matrix of random vectors through the connection with zonoids.
 
@@ -83,7 +87,7 @@ This builds on [36]. We give a self-contained description of our harmonic interp
 
 ## [37] Dually Lorentzian Polynomials  
 **with H. Seuss and T. Wannerer**  
-**Preprint:** https://arxiv.org/abs/2304.08399
+**Preprint:** [arXiv:2304.08399](https://arxiv.org/abs/2304.08399)
 
 One of the questions that arose from my work relating Schur polynomials and the Hodge-Riemann property (say from [34,35]) was whether this gave genuinely new inequalities between characteristic classes of ample line bundles (or Kahler classes) or whether these were combinatorial consequences of known inequalities. In this paper we prove that it is the latter, and the inequalities that arise are combinatorial consequences of the mixed Alexandrov-Fenchel inequality.
 
