@@ -1,1 +1,5 @@
+# Movies
 
+<img alt="Poster of movie titled R" src="./media/movies/R.jpg" width="200px">
+<img alt="Poster of movie titled Z" src="./media/movies/Z.jpg" width="200px">
+<img alt="Poster of movie titled 8" src="./media/movies/8.jpg" width="200px">
