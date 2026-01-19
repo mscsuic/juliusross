@@ -135,7 +135,7 @@ This framework likely contains many previously known Brunn–Minkowski generaliz
 ## [35] Hodge–Riemann Relations for Schur Classes in the Linear and Kähler Cases  
 **with M. Toma**
 *International Mathematics Research Notices*, 2023, Issue 16, pp. 13780–13816
-**Preprint:** https://arxiv.org/abs/2202.13816
+**Preprint:** [arXiv:2202.13816](https://arxiv.org/abs/2202.13816)
 
 This is the third paper in a series on the Hodge–Riemann property for Schur classes.  The main advance here is a *linear algebra machine* abstracted from the proof in [32].   Together with [34], this gives a unified approach to some of the main results in [32].
 
@@ -150,7 +150,7 @@ A purely linear algebra proof — avoiding geometry entirely — remains open.
 ## [34] On Hodge–Riemann Cohomology Classes  
 **with M. Toma**  
 In *Birational Geometry, Kähler–Einstein Metrics and Degenerations*, Springer Proc. Math. Stat., vol. 409, pp. 763–793  
-**Preprint:** https://arxiv.org/abs/2106.11285
+**Preprint:** [arXiv:2106.11285](https://arxiv.org/abs/2106.11285)
 
 Continuing the theme of [32], this paper studies Hodge–Riemann properties of Schur classes of nef and ample vector bundles.  
 The main theorem here is slightly weaker than in [32], but the proofs are much simpler.
