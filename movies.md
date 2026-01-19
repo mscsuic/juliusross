@@ -44,6 +44,36 @@
 <img alt="Poster of movie titled Trigonometry" src="./media/movies/trig.jpg" width="180px">
 <img alt="Poster of movie titled True" src="./media/movies/true.jpg" width="180px">
 
+<img alt="Poster of movie titled Infinite" src="./media/movies/infinite.jpg" width="180px">
+<img alt="Poster of movie titled Face" src="./media/movies/face.jpg" width="180px">
+<img alt="Poster of movie titled Edge" src="./media/movies/edge.jpg" width="180px">
+<img alt="Poster of movie titled Vertex" src="./media/movies/vertex.jpg" width="180px">
+<img alt="Poster of movie titled Trigonometry" src="./media/movies/trigonometry.jpg" width="180px">
+<img alt="Poster of movie titled Zero" src="./media/movies/zero.jpg" width="180px">
+<img alt="Poster of movie titled Class" src="./media/movies/class.jpg" width="180px">
+<img alt="Poster of movie titled Normal" src="./media/movies/normal.jpg" width="180px">
+<img alt="Poster of movie titled Circle" src="./media/movies/circle.jpg" width="180px">
+<img alt="Poster of movie titled Prime" src="./media/movies/prime.jpg" width="180px">
+<img alt="Poster of movie titled The Equalizer" src="./media/movies/equalizer.jpg" width="180px">
+<img alt="Poster of movie titled The Equalizer 2" src="./media/movies/equalizer2.jpg" width="180px">
+<img alt="Poster of movie titled Intersection" src="./media/movies/intersection.jpg" width="180px">
+<img alt="Poster of movie titled Union" src="./media/movies/union.jpg" width="180px">
+<img alt="Poster of movie titled Parallel" src="./media/movies/parallel.jpg" width="180px">
+<img alt="Poster of movie titled Identity" src="./media/movies/identity.jpg" width="180px">
+<img alt="Poster of movie titled The Group" src="./media/movies/thegroup.jpg" width="180px">
+<img alt="Poster of movie titled A Perfect Pairing" src="./media/movies/perfectpairing.jpg" width="180px">
+<img alt="Poster of movie titled Zeroes" src="./media/movies/zeroes.jpg" width="180px">
+<img alt="Poster of movie titled Injection" src="./media/movies/injection.jpg" width="180px">
+<img alt="Poster of movie titled Less Than Zero" src="./media/movies/lessthanzero.jpg" width="180px">
+<img alt="Poster of movie titled Topos" src="./media/movies/topos.jpg" width="180px">
+<img alt="Poster of movie titled Measure" src="./media/movies/measure.jpg" width="180px">
+<img alt="Poster of movie titled Radical" src="./media/movies/radical.jpg" width="180px">
+
+## Aren't but should be
+<img alt="Poster of movie titled Dangerous Method" src="./media/movies/dangerousmethod.jpg" width="180px">
+<img alt="Poster of movie titled Death Proof" src="./media/movies/deathproof.png" width="180px">
+<img alt="Poster of movie titled Aftermath" src="./media/movies/aftermath.png" width="180px">
+
 
 
 
