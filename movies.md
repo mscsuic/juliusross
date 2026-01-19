@@ -36,8 +36,13 @@
 <img alt="Poster of movie titled Sequence" src="./media/movies/sequence.jpg" width="180px">
 <img alt="Poster of movie titled Seven" src="./media/movies/seven.jpg" width="180px">
 <img alt="Poster of movie titled Sphere" src="./media/movies/sphere.jpg" width="180px">
-<img alt="Poster of movie titled The Cell" src="./media/movies/thecell.jpg" width="180px">
+<img alt="Poster of movie titled The Cell" src="./media/movies/thecell.jpeg" width="180px">
 <img alt="Poster of movie titled The Limit" src="./media/movies/thelimit.jpg" width="180px">
+<img alt="Poster of movie titled Theory" src="./media/movies/theory.jpg" width="180px">
+<img alt="Poster of movie titled The Ring" src="./media/movies/thering.jpg" width="180px">
+<img alt="Poster of movie titled The Scheme" src="./media/movies/thescheme.jpg" width="180px">
+<img alt="Poster of movie titled Trigonometry" src="./media/movies/trig.jpg" width="180px">
+<img alt="Poster of movie titled True" src="./media/movies/true.jpg" width="180px">
 
 
 
