@@ -7,7 +7,7 @@ layout: default
 
 ## [43] Generalized Bogomolov Inequalities  
 **with M. Pavel and M. Toma**  
-**Preprint:** https://arxiv.org/abs/2510.04663
+**Preprint:** [arXiv:2510.04663](https://arxiv.org/abs/2510.04663)
 
 We introduce two notions, the first notion being a Hodge-Riemann pair and the second notion is that of a Bogomolov Pair. In both cases this can be either a pair of cohomology classes or a pair of forms; for simplicity in this summary we just consider the case of classes.
 
@@ -19,7 +19,7 @@ We give a list of known Hodge-Riemann pairs (essentially all taken from my previ
 
 ## [42] Realization of Cohomology Classes in Grassmannians  
 **with I. Coskun**  
-**Preprint:** https://arxiv.org/abs/2509.03747
+**Preprint:** [arXiv:2509.03747](https://arxiv.org/abs/2509.03747)
 
 In this work we look at which cohomology classes in the Grassmannian $G(k,n)$ can be represented by an irreducible variety. This question can also be asked over $\mathbb{Q}$ by which we mean to find which cohomology classes have a positive multiple that can be represented by an irreducible variety. In this paper we solve this problem for dimension 2, dimension 3, codimension 2, and codimension 3 classes in all Grassmannians. We also do more for other specific Grassmannians.
 
@@ -28,7 +28,7 @@ This work was influenced by work of Huh and others. Huh in particular has looked
 ---
 
 ## [41] Accessibility for the Working Mathematician  
-**Preprint:** https://arxiv.org/abs/2505.22667
+**Preprint:** [arXiv:2505.22667](https://arxiv.org/abs/2505.22667)
 
 This document is an informal introduction to the topic of creating accessible electronic documents, in particular those that are created by mathematics teachers and researchers. When I came to this topic I was hoping to find a one-page "guide" that would tell me all that I needed to know. Upon exploration I now understand that asking for such a guide was a little naive since the topic is a little more complicated (but not that complicated), and so I set about writing this slightly longer guide.
 
@@ -38,7 +38,7 @@ I hope that this will be useful to others, at least it may save them time that I
 
 ## [40] Uniform boundedness of semistable pure sheaves on projective manifolds  
 **with M. Pavel and M. Toma**  
-**Preprint:** https://arxiv.org/abs/2403.12855
+**Preprint:** [arXiv2403.12855](https://arxiv.org/abs/2403.12855)
 
 When considering moduli spaces of sheaves, a first property that one wants to prove is boundedness to ensure that these moduli spaces are of finite type (i.e. have finitely many irreducible components). For sheaves one usually imposes some kind of stability notion to ensure this boundedness. Once such moduli spaces have been constructed, it is interesting to ask how they change when this choice of stability changes and to do this in the best possible way one really wants some kind of uniform boundedness (that holds, say, as the stability condition varies within a compact set).
 
@@ -50,7 +50,7 @@ More should be true, and we have conjectures about even stronger uniform bounded
 
 ## [39] Schur positivity of difference of products of derived Schur polynomials  
 **with K. Wu**  
-**Preprint:** https://arxiv.org/abs/2403.04101
+**Preprint:** [arXiv:2403.04101](https://arxiv.org/abs/2403.04101)
 
 This follows up on work in [35] in which we consider again our so-called derived Schur polynomials $s_{\lambda}^{(i)}$ defined by the rule
 
