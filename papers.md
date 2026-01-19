@@ -54,18 +54,18 @@ More should be true, and we have conjectures about even stronger uniform bounded
 
 This follows up on work in [35] in which we consider again our so-called derived Schur polynomials $s_{\lambda}^{(i)}$ defined by the rule
 
-\[
+$$
 s_\lambda(x_1+t,\ldots,x_n+t)
 = s_\lambda(x_1,\ldots,x_n)
 + t\, s_\lambda^{(1)}(x_1,\ldots,x_n)
 + t^2 s_\lambda^{(2)}(x_1,\ldots,x_n) + \cdots
-\]
+$$
 
 In [35] we show that for any Schur polynomial $s_{\lambda}$ the quantity
 
-\[
+$$
 p := (s_{\lambda}^{(i)})^2 - s_{\lambda}^{(i-1)} s_{\lambda}^{(i+1)}
-\]
+$$
 
 is positive, in the sense that $p(x_1,\ldots,x_n) \ge 0$ whenever $x_1,\ldots,x_n \ge 0$. This should be thought of as a kind of log-concavity for these derived Schur polynomials.
 
@@ -89,10 +89,10 @@ One of the questions that arose from my work relating Schur polynomials and the 
 
 In fact we go further, by introducing a notion of dually Lorentzian polynomial, and prove that if $s\in\mathbb{R}[x_1,\ldots,x_n]$ is dually Lorentzian then the operator
 
-\[
+$$
 s(\partial_{x_1},\ldots,\partial_{x_n}) :
 \mathbb{R}[x_1,\ldots,x_n] \to \mathbb{R}[x_1,\ldots,x_n]
-\]
+$$
 
 takes (strictly) Lorentzian polynomials to (strictly) Lorentzian polynomials. Since Schur polynomials are dually Lorentzian we can use this along with the classical mixed Alexandrov-Fenchel inequality to reprove all of the characteristic class inequalities deduced in [34].
 
@@ -107,9 +107,9 @@ The paper does not negate earlier work entirely: in [34] the main focus was on a
 
 The Brunn–Minkowski inequality is one of the central results in convex geometry. One version states that if $A_0$ and $A_1$ are convex bodies and
 
-\[
+$$
 A_t := t A_1 + (1 - t) A_0, \qquad t \in [0,1],
-\]
+$$
 
 then $\mathrm{vol}(A_t)$ is log-concave in $t$.
 
@@ -169,15 +169,15 @@ We prove a *twisted* version of the Yau–Tian–Donaldson conjecture.
 
 Let $M$ be a Fano manifold and $T \to M$ a line bundle with a smooth semi-positive representative $\beta \in c_1(T)$ expressible as
 
-\[
+$$
 \beta = \int_{|T|} [D] \, d\mu(D).
-\]
+$$
 
 A twisted Kähler–Einstein metric is a Kähler metric $\omega$ satisfying
 
-\[
+$$
 \mathrm{Ric}(\omega) = \omega + \beta.
-\]
+$$
 
 **Main theorem:**  
 If $(M,\beta)$ is K-stable, then $M$ admits a twisted Kähler–Einstein metric.
@@ -195,29 +195,29 @@ We extend the Hard Lefschetz theorem and Hodge–Riemann bilinear relations to n
 
 If $X$ is a projective manifold of dimension $d$ and $E$ is a holomorphic vector bundle, then for any partition $\lambda$ of $d-2$, the Schur class
 
-\[
+$$
 s_\lambda(E) \in H^{d-2,d-2}(X)
-\]
+$$
 
 satisfies:
 
 - **Hard Lefschetz:**  
-  \[
+  $$
   H^{1,1}(X) \to H^{d-1,d-1}(X), \quad \alpha \mapsto \alpha \wedge s_\lambda(E)
-  \]
+  $$
   is an isomorphism.
 
 - **Hodge–Riemann bilinear relations:**  
-  \[
+  $$
   (\alpha,\alpha') \mapsto \int_X \alpha \wedge s_\lambda(E) \wedge \alpha'
-  \]
+  $$
   has signature $(1, h^{1,1}(X))$.
 
 Consequences include new Hodge‑index‑type inequalities such as log‑concavity of
 
-\[
+$$
 i \mapsto \int_X c_i(E)\, h^{d-i},
-\]
+$$
 
 a higher‑rank analogue of Khovanskii–Tessier inequalities.
 
@@ -233,15 +233,15 @@ This paper has two main components:
 ### 1. Differentiability of the argmin function  
 For $f : \mathbb{R}^n \to \mathbb{R}$, define the marginal function
 
-\[
+$$
 g(x) = \inf_y f(x,y),
-\]
+$$
 
 and the set‑valued function
 
-\[
+$$
 \mathrm{argmin}_f(x) = \{y : f(x,y) \le f(x,z) \ \forall z\}.
-\]
+$$
 
 Assume:
 
@@ -264,9 +264,9 @@ For convex functions $f$ and $g$, $\max\{f,g\}$ is convex but $\min\{f,g\}$ gene
 
 However, if $f(x,y)$ is convex in $(x,y)$, then the *marginal function*
 
-\[
+$$
 g(y) = \min_x f(x,y)
-\]
+$$
 
 is convex in $y$. This is the classical “minimum principle,” with a complex-analytic analogue due to Kiselman.
 
