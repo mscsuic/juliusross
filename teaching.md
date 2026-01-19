@@ -2,7 +2,7 @@
 
 ## Current Teaching
 
-In Spring 2026 I am teaching MATH313 (Real Analysis).  Information about the courses can be found on [canvas](canvas.uic.edu).
+In Spring 2026 I am teaching MATH313 (Real Analysis).  Information about the courses can be found on [canvas](http://canvas.uic.edu).
 
 ## Past Teaching
 
