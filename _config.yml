@@ -4,6 +4,7 @@ title: Julius Ross
 description: Mathematician
 
 kramdown:
+  input: kramdown
   math_engine: mathjax
 
 
