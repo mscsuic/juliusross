@@ -5,6 +5,12 @@ layout: default
 
 # Research
 
+$inline 1 x^2$ \(inline 2 x^2\)
+
+$$display 1 x^2$$
+
+\[display 2 x^2\]
+
 ## [43] Generalized Bogomolov Inequalities  
 **with M. Pavel and M. Toma**  
 **Preprint:** https://arxiv.org/abs/2510.04663
