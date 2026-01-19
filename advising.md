@@ -9,4 +9,4 @@ From any project you should be able to produce at least five papers: The Origina
 
 Academia is not a sprint, nor is it a marathon.  It is an infinite sequences of sprints and marathons, many of which you are expected to run concurrently.
 
-Its not who you know. Its not what you know. Its what people you know know.
+Its not who you know. Its not what you know. Its what the people you know know.
