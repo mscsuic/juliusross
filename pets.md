@@ -30,7 +30,7 @@ Wispa went out and got lost for two days. She was found only after a concerted e
 <img src="media/wispa.jpg" alt="The cat called Wispa" width="400">
 
 ## Update (June 2020)  
-It is at all clear that Wispa enjoys having the entire family around 24 hours a day, seven days a week.
+It is not at all clear that Wispa enjoys having the entire family around 24 hours a day, seven days a week.
 
 ## Update (Nov 2020)  
 We got a lockdown pup (to arrive December 30th). He is a miniature Australian Shepherd to be named Shelford, after the village in the UK where we lived when the kids were born.
