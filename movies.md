@@ -43,7 +43,6 @@
 <img alt="Poster of movie titled The Scheme" src="./media/movies/thescheme.jpg" width="180px">
 <img alt="Poster of movie titled Trigonometry" src="./media/movies/trig.jpg" width="180px">
 <img alt="Poster of movie titled True" src="./media/movies/true.jpg" width="180px">
-
 <img alt="Poster of movie titled Infinite" src="./media/movies/infinite.jpg" width="180px">
 <img alt="Poster of movie titled Face" src="./media/movies/face.jpg" width="180px">
 <img alt="Poster of movie titled Edge" src="./media/movies/edge.jpg" width="180px">
