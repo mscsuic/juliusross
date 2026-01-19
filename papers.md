@@ -78,7 +78,7 @@ Update: This conjecture has been proved by Lu-Zheng [arXiv:2506.16992](https://a
 
 ## [38] Harmonic Interpolation and a Brunn-Minkowski Theorem for Random Determinants  
 **with D. Witt Nyström**  
-**In Convex and Complex: Perspectives on Positivity in Geometry, Publication: Contemporary Mathematics Publication Year: 2025; Volume 810**
+In *Convex and Complex: Perspectives on Positivity in Geometry*, Publication: Contemporary Mathematics Publication Year: 2025; Volume 810
 **Preprint:** [arXiv:2310.09697](https://arxiv.org/abs/2310.09697)
 
 This builds on [36]. We give a self-contained description of our harmonic interpolation of convex bodies, and prove a strong form of the Brunn–Minkowski inequality and characterize its equality case. As an application we improve a theorem of Berndtsson on the volume of slices of a pseudoconvex domain. We furthermore apply this to prove subharmonicity of the expected absolute value of the determinant of a matrix of random vectors through the connection with zonoids.
@@ -87,6 +87,7 @@ This builds on [36]. We give a self-contained description of our harmonic interp
 
 ## [37] Dually Lorentzian Polynomials  
 **with H. Seuss and T. Wannerer**  
+*Monatsh Math* 208, 495–524 (2025)
 **Preprint:** [arXiv:2304.08399](https://arxiv.org/abs/2304.08399)
 
 One of the questions that arose from my work relating Schur polynomials and the Hodge-Riemann property (say from [34,35]) was whether this gave genuinely new inequalities between characteristic classes of ample line bundles (or Kahler classes) or whether these were combinatorial consequences of known inequalities. In this paper we prove that it is the latter, and the inequalities that arise are combinatorial consequences of the mixed Alexandrov-Fenchel inequality.
@@ -107,7 +108,8 @@ The paper does not negate earlier work entirely: in [34] the main focus was on a
 
 ## [36] Interpolation, Prekopa and Brunn–Minkowski for F-subharmonicity  
 **with D. Witt Nyström**  
-**Preprint:** https://arxiv.org/abs/2206.00576
+*Advances in Mathematics*,Volume 436,2024
+**Preprint:** [arXiv:2206.00576](https://arxiv.org/abs/2206.00576)
 
 The Brunn–Minkowski inequality is one of the central results in convex geometry. One version states that if $A_0$ and $A_1$ are convex bodies and
 
@@ -131,13 +133,11 @@ This framework likely contains many previously known Brunn–Minkowski generaliz
 ---
 
 ## [35] Hodge–Riemann Relations for Schur Classes in the Linear and Kähler Cases  
-**with M. Toma**  
-**International Mathematics Research Notices, 2023, Issue 16, pp. 13780–13816**  
+**with M. Toma**
+*International Mathematics Research Notices*, 2023, Issue 16, pp. 13780–13816
 **Preprint:** https://arxiv.org/abs/2202.13816
 
-This is the third paper in a series on the Hodge–Riemann property for Schur classes.  
-The main advance here is a *linear algebra machine* abstracted from the proof in [32].  
-Together with [34], this gives a unified approach to some of the main results in [32].
+This is the third paper in a series on the Hodge–Riemann property for Schur classes.  The main advance here is a *linear algebra machine* abstracted from the proof in [32].   Together with [34], this gives a unified approach to some of the main results in [32].
 
 The original geometric motivation was to prove that Schur polynomials of Kähler forms satisfy the Hodge–Riemann relations. Rational classes can be treated with algebraic geometry; irrational ones required this new linear‑algebraic approach.
 
@@ -166,8 +166,8 @@ Additional results include:
 
 ## [33] Twisted Kähler–Einstein metrics  
 **with G. Székelyhidi**  
-**To appear in Pure and Applied Mathematics Quarterly**  
-**Preprint:** https://arxiv.org/abs/1911.03442
+*Pure and Applied Mathematics Quarterly*  17(3): 1025-1044 (June 2021)
+**Preprint:** [arXiv:1911.03442](https://arxiv.org/abs/1911.03442)
 
 We prove a *twisted* version of the Yau–Tian–Donaldson conjecture.
 
@@ -183,8 +183,7 @@ $$
 \mathrm{Ric}(\omega) = \omega + \beta.
 $$
 
-**Main theorem:**  
-If $(M,\beta)$ is K-stable, then $M$ admits a twisted Kähler–Einstein metric.
+*Main theorem:*  If $(M,\beta)$ is K-stable, then $M$ admits a twisted Kähler–Einstein metric.
 
 This builds on the continuity‑method framework of Datar–Székelyhidi and recent results of Liu–Székelyhidi.
 
