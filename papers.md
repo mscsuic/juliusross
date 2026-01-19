@@ -191,8 +191,8 @@ This builds on the continuity‑method framework of Datar–Székelyhidi and rec
 
 ## [32] Hodge–Riemann bilinear relations for Schur Classes of Ample Bundles  
 **with M. Toma**  
-**To appear in Annales Scientifiques de l’École Normale Supérieure**  
-**Preprint:** https://arxiv.org/abs/1905.13636
+*Annales Scientifiques de l École Normale Supérieure* 56(1):197-241**  
+**Preprint:** [arXiv:1905.13636](https://arxiv.org/abs/1905.13636)
 
 We extend the Hard Lefschetz theorem and Hodge–Riemann bilinear relations to new classes.
 
@@ -204,13 +204,13 @@ $$
 
 satisfies:
 
-- **Hard Lefschetz:**  
+- *Hard Lefschetz:*
   $$
   H^{1,1}(X) \to H^{d-1,d-1}(X), \quad \alpha \mapsto \alpha \wedge s_\lambda(E)
   $$
   is an isomorphism.
 
-- **Hodge–Riemann bilinear relations:**  
+- *Hodge–Riemann bilinear relations:*  
   $$
   (\alpha,\alpha') \mapsto \int_X \alpha \wedge s_\lambda(E) \wedge \alpha'
   $$
@@ -228,12 +228,12 @@ a higher‑rank analogue of Khovanskii–Tessier inequalities.
 
 ## [31] Differentiability of the argmin function and a minimum principle for semiconcave subsolutions  
 **with D. Witt Nyström**  
-**Journal of Convex Analysis 27(3): 811–832 (2020)**  
-**Preprint:** https://arxiv.org/abs/1808.04402
+*Journal of Convex Analysis* 27(3): 811–832 (2020)**  
+**Preprint:** [arXiv:1808.04402](https://arxiv.org/abs/1808.04402)
 
 This paper has two main components:
 
-### 1. Differentiability of the argmin function  
+*1. Differentiability of the argmin function*  
 For $f : \mathbb{R}^n \to \mathbb{R}$, define the marginal function
 
 $$
@@ -251,17 +251,17 @@ Assume:
 1. $f(x,y) + \frac{\kappa}{2}\|x\|^2 - \frac{\sigma}{2}\|y\|^2$ is convex,  
 2. for each $x$, there is a unique minimizer $\gamma(x)$.
 
-Then **$\gamma$ is differentiable almost everywhere**.
+Then $\gamma$ is differentiable almost everywhere.
 
-### 2. A minimum principle for subequations  
+*2. A minimum principle for subequations*  
 This generalizes earlier results (including [29]) to very general subequations using viscosity techniques.
 
 ---
 
 ## [30] The Minimum Principle for Convex Subequations  
 **with D. Witt Nyström**  
-**Journal of Geometric Analysis 32:28 (2022)**  
-**Preprint:** https://arxiv.org/abs/1806.06033
+*Journal of Geometric Analysis* 32:28 (2022)  
+**Preprint:** [arXiv:1806.06033](https://arxiv.org/abs/1806.06033)
 
 For convex functions $f$ and $g$, $\max\{f,g\}$ is convex but $\min\{f,g\}$ generally is not.
 
@@ -282,7 +282,7 @@ This extends convexity theory to a wide new class of degenerate elliptic PDEs.
 ## [29] The Dirichlet Problem for the Complex Homogeneous Monge–Ampère Equation  
 **with D. Witt Nyström**  
 In *Modern Geometry: A Celebration of the Work of Simon Donaldson*, Proc. Sympos. Pure Math. 99 (2018), pp. 289–330  
-**Preprint:** https://arxiv.org/abs/1712.00405
+**Preprint:** [arXiv:1712.00405](https://arxiv.org/abs/1712.00405)
 
 This survey introduces the complex Homogeneous Monge–Ampère Equation (HMAE) both locally on $\mathbb{C}^n$ and globally on families of compact Kähler manifolds over Riemann surfaces with boundary.
 
@@ -300,7 +300,7 @@ Subsequent improvements by McCleary show strict monotonicity of weak Hele–Shaw
 ## [28] Stable Maps in Higher Dimension  
 **with R. Dervan**  
 *Mathematische Annalen* 374(3–4): 1033–1073 (2019)  
-**Preprint:** https://arxiv.org/abs/1708.09750
+**Preprint:** [arXiv:1708.09750](https://arxiv.org/abs/1708.09750)
 
 We introduce a notion of K‑stability for morphisms, not only varieties, inspired by Grothendieck’s viewpoint that properties of spaces should be viewed through the lens of morphisms.
 
@@ -310,7 +310,7 @@ K‑stable maps appear naturally, such as:
 - stability questions for fibrations,  
 - projectivizations $\mathbb{P}(E)$ of vector bundles.
 
-**Main result:** Construction of a projective moduli space of *stable general type maps*, characterized by semi-log-canonical singularities.  
+*Main result:* Construction of a projective moduli space of *stable general type maps*, characterized by semi-log-canonical singularities.  
 This generalizes both:
 
 - the KSBA moduli of stable varieties, and  
@@ -323,12 +323,13 @@ The theory also suggests that moduli of *Fano stable maps* should exist, analogo
 ## [27] On the Maximal Rank Problem for the Complex Homogeneous Monge–Ampère Equation  
 **with D. Witt Nyström**  
 *Analysis & PDE* 12(2): 493–503 (2019)  
-**Preprint:** https://arxiv.org/abs/1610.02280
+**Preprint:** [arXiv:1610.02280](https://arxiv.org/abs/1610.02280)
 
 Classically, convex solutions of certain elliptic PDEs satisfy *constant rank* properties for their Hessians.  
 We investigate an analogue for the complex HMAE.
 
-**Main result:** The constant rank property fails.  
+*Main result:* The constant rank property fails.  
+
 We construct boundary data on the unit disc whose HMAE solution becomes completely degenerate on an open set, hence the Hessian rank is not constant.
 
 We conjecture that the phenomenon we observe — regularity on a nonempty open set and complete degeneracy on its complement — should be generic.
@@ -338,10 +339,9 @@ We conjecture that the phenomenon we observe — regularity on a nonempty open s
 ## [26] A Master Space for Moduli Spaces of Gieseker‑Stable Sheaves  
 **with D. Greb and M. Toma**  
 *Transformation Groups* 24(2): 379–401 (2019)  
-**Preprint:** https://arxiv.org/abs/1605.06642
+**Preprint:** [arXiv:1605.06642](https://arxiv.org/abs/1605.06642)
 
-Building on [20], we show that any two moduli spaces of multi‑Gieseker‑stable sheaves of fixed topological type arise as GIT quotients of a single *master space*.  
-Thus all such moduli spaces are connected by a finite sequence of Thaddeus flips.
+Building on [20], we show that any two moduli spaces of multi‑Gieseker‑stable sheaves of fixed topological type arise as GIT quotients of a single *master space*.  Thus all such moduli spaces are connected by a finite sequence of Thaddeus flips.
 
 Unlike earlier results, we allow degenerate stability parameters.  
 A corollary: moduli spaces of Gieseker‑stable sheaves with respect to arbitrary polarizations are related by Thaddeus flips.
@@ -353,20 +353,19 @@ This construction also refines [21], where intermediate spaces can themselves be
 ## [25] K‑stability for Kähler manifolds  
 **with R. Dervan**  
 *Mathematics Research Letters* 24(3): 689–739 (2017)  
-**Preprint:** https://arxiv.org/abs/1602.08983
+**Preprint:** [arXiv:1602.08983](https://arxiv.org/abs/1602.08983)
 
 We extend K‑stability to general (not necessarily projective) Kähler manifolds.
 
 Following Odaka–Wang, we view the Donaldson–Futaki invariant as a topological invariant of the total space of a test configuration.  
 This perspective allows the definition of K‑stability in the Kähler setting.
 
-**Main theorem:**  
-- boundedness (resp. coercivity) of the Mabuchi functional implies K‑semistability (resp. uniform K‑stability).
+*Main theorem:* We prove boundedness (resp. coercivity) of the Mabuchi functional implies K‑semistability (resp. uniform K‑stability).
 
 In particular:
 
-- existence of a cscK metric ⇒ K‑semistability,  
-- if the automorphism group is discrete ⇒ K‑stability.
+- existence of a cscK metric implies K‑semistability,  
+- if the automorphism group is discrete implies K‑stability.
 
 Dyrefelt independently obtained similar results using different methods.
 
@@ -375,7 +374,7 @@ Dyrefelt independently obtained similar results using different methods.
 ## [24] Moduli of vector bundles on higher-dimensional base manifolds — construction and variation  
 **with D. Greb and M. Toma**  
 *International Journal of Mathematics* 27(7): 1650054 (2016)  
-**Preprint:** https://arxiv.org/abs/1503.00319
+**Preprint:** [arXiv:1503.00319](https://arxiv.org/abs/1503.00319)
 
 A survey of recent progress on moduli of vector bundles over higher-dimensional manifolds, summarizing results from [20], [21], and [26].
 
@@ -383,13 +382,13 @@ A survey of recent progress on moduli of vector bundles over higher-dimensional 
 
 ## [23] Quantization of Hitchin’s equations for Higgs Bundles I  
 **with M. Garcia‑Fernandez and J. Keller**  
-**Preprint:** https://arxiv.org/abs/1601.04960
+**Preprint:** [arXiv:1601.04960](https://arxiv.org/abs/1601.04960)
 
 Motivated by earlier work ([18]), we develop a new parameter space adapted to quantization of Higgs bundles, covering decorated bundles beyond the reach of [18].
 
 We construct an algebraic framework for quantizing Hermitian metrics solving the Hitchin equations over projective manifolds.  
-This is part I of a planned series aiming to:
 
+We had planned to do the following, but it never materialized:
 - extend known quantization results for bundles to the Higgs setting,  
 - compare the resulting structures with natural complex-symplectic geometry on the cotangent bundle of the moduli space.
 
@@ -397,7 +396,7 @@ This is part I of a planned series aiming to:
 ## [22] Applications of the Duality between the Complex Monge–Ampère Equation and the Hele–Shaw flow  
 **with D. Witt Nyström**  
 *Annales de l’Institut Fourier* 69(1): 1–30 (2019)  
-**Preprint:** https://arxiv.org/abs/1509.02665
+**Preprint:** [arXiv:1509.02665](https://arxiv.org/abs/1509.02665)
 
 Building on [19], we use the fact (due to Berndtsson) that almost any increasing planar flow arises as the Hele–Shaw flow associated to some permeability. This yields a method of constructing Kähler metrics on $\mathbb{P}^1$ or the unit disc with prescribed properties.
 
@@ -413,8 +412,8 @@ We produce examples of:
 
 ## [21] Semi-continuity of Stability for Sheaves and Variation of Gieseker Moduli Spaces  
 **with D. Greb and M. Toma**  
-**To appear in J. Reine Angew. Math. (Crelles)**  
-**Preprint:** https://arxiv.org/abs/1501.04440
+*Journal für die reine und angewandte Mathematik (Crelle)* January 20162019(749))
+**Preprint:** [arXiv:1501.04440](https://arxiv.org/abs/1501.04440)
 
 We continue the study of variation of moduli spaces as stability conditions change.  
 In [20], certain moduli were shown to be related by Thaddeus flips; here we investigate whether the intermediate spaces also have modular interpretations.
@@ -451,14 +450,13 @@ Consequences include:
 ## [19] Harmonic Discs of Solutions to the Complex Homogeneous Monge–Ampère Equation  
 **with D. Witt Nyström**  
 *Publications Mathématiques de l’IHÉS* 122(1): 315–335 (2015)  
-**Preprint:** https://arxiv.org/abs/1408.6663
+**Preprint:** [arXiv:1408.6663](https://arxiv.org/abs/1408.6663)
 
 Geodesics in the space of Kähler potentials correspond to solutions of the complex Homogeneous Monge–Ampère Equation (HMAE). Understanding their regularity is a central problem.
 
 We perform a systematic study in the simplest nontrivial case: the base $\mathbb{P}^1$.
 
-**Main discovery:** a duality between HMAE solutions and the Hele–Shaw flow.  
-Regularity of the HMAE solution corresponds exactly to simple connectivity of the Hele–Shaw domains.
+*Main result:* A duality between HMAE solutions and the Hele–Shaw flow and regularity of the HMAE solution corresponds exactly to simple connectivity of the Hele–Shaw domains.
 
 Using this:
 
@@ -470,28 +468,25 @@ Using this:
 ## [18] Balanced Metrics on Twisted Higgs Bundles  
 **with M. Garcia‑Fernandez**  
 *Mathematische Annalen* 367(3–4): 1429–1471 (2017)  
-**Preprint:** https://arxiv.org/abs/1401.7108
+**Preprint:** [arXiv:1401.7108](https://arxiv.org/abs/1401.7108)
 
 We develop a framework for quantization of metrics on twisted Higgs bundles.
 
-Balanced metrics in this setting are shown to approximate solutions to the Hitchin equations.  
-We also prove a finite‑dimensional Hitchin–Kobayashi correspondence: existence of a balanced metric is equivalent to a suitable algebro‑geometric stability condition.
+Balanced metrics in this setting are shown to approximate solutions to the Hitchin equations.   We also prove a finite‑dimensional Hitchin–Kobayashi correspondence: existence of a balanced metric is equivalent to a suitable algebro‑geometric stability condition.
 
-Motivation came partly from physics (Donagi–Wijnholt).  
-In the Higgs‑free case, these results reduce to Wang’s classical theory.  
-A subtle point is identifying the correct finite‑dimensional parameter spaces for quantization — several viable choices exist, but only some interact well with balanced metrics.
+Motivation came partly from physics (Donagi–Wijnholt).   In the Higgs‑free case, these results reduce to Wang’s classical theory.   A subtle point is identifying the correct finite‑dimensional parameter spaces for quantization — several viable choices exist, but only some interact well with balanced metrics.
 
 ---
 
 ## [17] Homogeneous Monge–Ampère Equations and Canonical Tubular Neighbourhoods in Kähler Geometry  
 **with D. Witt Nyström**  
 *International Mathematics Research Notices* 2017(23): 7069–7108  
-**Preprint:** https://arxiv.org/abs/1403.3282
+**Preprint:** [arXiv:1403.3282](https://arxiv.org/abs/1403.3282)
 
 We study tubular neighborhoods in Kähler geometry.  
 Unlike in differential geometry, complex submanifolds rarely admit holomorphic tubular neighborhoods.
 
-Using regular solutions of the HMAE on the deformation to the normal cone, we construct a **canonical tubular neighborhood** intertwining holomorphic and symplectic structures.
+Using regular solutions of the HMAE on the deformation to the normal cone, we construct a *canonical tubular neighborhood* intertwining holomorphic and symplectic structures.
 
 This construction yields:
 
@@ -504,32 +499,27 @@ The relationship between these formulas is of independent interest.
 ## [16] Asymptotics of Partial Density Functions for Divisors  
 **with M. Singer**  
 *Journal of Geometric Analysis* 27(3): 1803–1854 (2017)  
-**Preprint:** https://arxiv.org/abs/1312.1145
+**Preprint:** [arXiv:1312.1145](https://arxiv.org/abs/1312.1145)
 
 Zooming in on a Kähler manifold locally resembles $\mathbb{C}^n$, a fact reflected in the Kähler identities and in Hörmander-type global analytic techniques.
 
 Here we study a phenomenon that is not fully local: the asymptotics of *partial density functions* associated to a divisor.
 
-For $\epsilon > 0$ and $k \in \mathbb{N}$, consider monomials
-$z^{\epsilon k}, z^{\epsilon k + 1}, \ldots$  
-normalized with respect to the standard $L^2$ inner product using the weight $e^{-k|z|^2}$.  
-The sum of their squared pointwise norms defines a partial density function.  
+For $\epsilon > 0$ and $k \in \mathbb{N}$, consider monomials $z^{\epsilon k}, z^{\epsilon k + 1}, \ldots$  normalized with respect to the standard $L^2$ inner product using the weight $e^{-k|z|^2}$.  The sum of their squared pointwise norms defines a partial density function.  
 As $k \to \infty$, this function:
 
 - is exponentially small inside a certain disc,  
 - tends to $1$ outside it,  
 - exhibits an error‑function transition layer.
 
-We show an analogous picture holds near divisors in general Kähler manifolds under an $S^1$‑symmetry hypothesis, and give a full asymptotic expansion whose leading term is the error function.
-
-The work suggests a connection with the tubular neighborhoods studied in [17], especially the possibility of similar asymptotics without $S^1$ symmetry.
+We show an analogous picture holds near divisors in general Kähler manifolds under an $S^1$‑symmetry hypothesis, and give a full asymptotic expansion whose leading term is the error function.  The work suggests a connection with the tubular neighborhoods studied in [17], especially the possibility of similar asymptotics without $S^1$ symmetry.
 
 ---
 
 ## [15] The Hele–Shaw Flow and Moduli of Holomorphic Discs  
 **with D. Witt Nyström**  
 *Compositio Mathematica* 151(12): 2301–2328 (2015)  
-**Preprint:** https://arxiv.org/abs/1212.2337
+**Preprint:** [arXiv:1212.2337](https://arxiv.org/abs/1212.2337)
 
 The Hele–Shaw flow models fluid injected between two closely spaced plates. In this paper, we study a version where the medium has spatially varying permeability.
 
@@ -548,18 +538,19 @@ This paper is the first in a series linking Hele–Shaw flow with complex geomet
 ## [14] Envelopes of plurisubharmonic metrics with prescribed singularities  
 **with D. Witt Nyström**  
 *Annales de la Faculté des Sciences de Toulouse*, Ser. 6, Vol. 26(3): 687–727 (2017)  
-**Preprint:** https://arxiv.org/abs/1210.2220
+**Preprint:** [arXiv:1210.2220](https://arxiv.org/abs/1210.2220)
 
 We study extremal plurisubharmonic envelopes associated with a background potential and a prescribed singularity type.
 
-Main result: such envelopes are $C^{1,1}$ on the locus where they are locally bounded.  
+*Main result*: such envelopes are $C^{1,1}$ on the locus where they are locally bounded.  
+
 The proof follows Berman’s approach, itself inspired by Bedford–Taylor theory.
 
 Connections:
 
 - These envelopes are closely related to the analytic test configurations of [13].  
 - They give regularity results for certain weak geodesics in the space of Kähler metrics (although only Lipschitz in time, slightly weaker than hoped).  
-- Darvas later proved that an envelope has the same singularity type as its data **iff** the background potential has finite Monge–Ampère energy (Guedj–Zeriahi).
+- Darvas later proved that an envelope has the same singularity type as its data if and only if the background potential has finite Monge–Ampère energy (Guedj–Zeriahi).
 
 We also compute a product formula for envelopes, analogous to classical formulas for Siciak extremal functions, using partial density functions and Mustaţă’s summation formula.
 
@@ -568,16 +559,14 @@ We also compute a product formula for envelopes, analogous to classical formulas
 ## [13] Analytic test configurations and geodesic rays  
 **with D. Witt Nyström**  
 *Journal of Symplectic Geometry* 12(1): 125–169 (2014)  
-**Preprint:** https://arxiv.org/abs/1101.1612
+**Preprint:** [arXiv:1101.1612](https://arxiv.org/abs/1101.1612)
 
 A central conjecture (Yau–Tian–Donaldson) connects cscK metrics with algebraic stability via test configurations.
 
-We introduce **analytic test configurations**, defined as convex curves of singularity types with mild regularity.  
+We introduce *analytic test configurations*, defined as convex curves of singularity types with mild regularity.  
 They are far easier to manipulate than algebraic test configurations: one may interpolate linearly between them.
 
-**Main theorem:**  
-Each analytic test configuration produces a *weak geodesic ray* via the Legendre transform of the associated family of envelopes (as in [14]).  
-Moreover, *every* weak geodesic ray arises this way.
+*Main theorem:* Each analytic test configuration produces a *weak geodesic ray* via the Legendre transform of the associated family of envelopes (as in [14]).   Moreover, every weak geodesic ray arises this way.
 
 This generalizes Phong–Sturm’s construction for algebraic test configurations, and we show how to recover their results within our framework.
 
@@ -586,16 +575,10 @@ This generalizes Phong–Sturm’s construction for algebraic test configuration
 ## [12] Limits of balanced metrics on vector bundles and polarised manifolds  
 **with M. Garcia‑Fernandez**  
 *Proceedings of the London Mathematical Society* 106(5): 1143–1156 (2013)  
-**Preprint:** https://arxiv.org/abs/1111.2819
+**Preprint:** [arXiv:1111.2819](https://arxiv.org/abs/1111.2819)
 
-We combine:
-
-- the Hitchin–Kobayashi correspondence for vector bundles, and  
-- the Yau–Tian–Donaldson framework for constant scalar curvature Kähler metrics,
-
-to study *stability of pairs* $(X,E)$ where both the manifold and the bundle vary.
-
-The stability notion includes a parameter; for special values, the analytic objects are *coupled equations* intertwining:
+We combine the Hitchin–Kobayashi correspondence for vector bundles, and the Yau–Tian–Donaldson framework for constant scalar curvature Kähler metrics,
+to study stability of pairs $(X,E)$ where both the manifold and the bundle vary.   The stability notion includes a parameter; for special values, the analytic objects are *coupled equations* intertwining:
 
 - Hermitian–Yang–Mills metrics on $E$, and  
 - cscK metrics on $X$.
@@ -603,19 +586,18 @@ The stability notion includes a parameter; for special values, the analytic obje
 The motivation was to find a framework encompassing coupled equations previously introduced by Álvarez‑Cónsul, Garcia‑Prada, and Garcia‑Fernandez from physical considerations.
 
 The relationship with those equations remains an interesting direction for future development.
-``
+
 
 ## [11] A note on Chow stability of the projectivisation of Gieseker stable bundles  
 **with J. Keller**  
 *Journal of Geometric Analysis* 24(3): 1526–1546 (2014)  
-**Preprint:** https://arxiv.org/abs/1110.4489
+**Preprint:** [arXiv:1110.4489](https://arxiv.org/abs/1110.4489)
 
 A common principle is that stability of the projectivization $\mathbb{P}(E)$ (as a polarized manifold with small fibers) should correspond to stability of the underlying vector bundle $E$ and stability of the base.
 
 For Mumford‑stable bundles, the natural stability notion for $\mathbb{P}(E)$ is K‑stability. Here we instead consider the case where $E$ is only Gieseker‑stable.
 
-We show that in this situation, the corresponding notion for $\mathbb{P}(E)$ should be **Chow stability**.  
-We prove results supporting this viewpoint and give examples of manifolds that are Chow stable but not asymptotically Chow stable.
+We show that in this situation, the corresponding notion for $\mathbb{P}(E)$ should be Chow stability.   We prove results supporting this viewpoint and give examples of manifolds that are Chow stable but not asymptotically Chow stable.
 
 ---
 
