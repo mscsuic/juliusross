@@ -19,4 +19,4 @@ Here are some of my current service activities
 - [GROW 2021](https://sites.google.com/uic.edu/grow2021/home) (Chicago, 2021)
 - [ZAG](https://webhomes.maths.ed.ac.uk/cheltsov/zag/) (Zoom Algebraic Geometry Seminar)
 - [British Algebraic Geometry Meeting](British Algebraic Geometry Meeting)
-- [Workshop on Kahler Geometry] (Cambridge, 2012)
+- [Workshop on Kahler Geometry](https://webhomes.maths.ed.ac.uk/cheltsov/cambridge/index.html) (Cambridge, 2012) The Cambridge video collection seems not to be working anymore, but at [least one video can be found on youtube](https://www.youtube.com/watch?v=6NbQJAz0zDI).
