@@ -604,12 +604,12 @@ We show that in this situation, the corresponding notion for $\mathbb{P}(E)$ sho
 ## [10] Weighted Bergman Kernels on Orbifolds  
 **with R. P. Thomas**  
 *Journal of Differential Geometry* 88: 87–108 (2011)  
-**Preprint:** https://arxiv.org/abs/0907.5215
+**Preprint:** [arXiv:0907.5215](https://arxiv.org/abs/0907.5215)
 
 Classical links between cscK metrics and stability rely on asymptotics of the Bergman (density of states) function.  
 However, for orbifolds with cyclic quotient singularities, the usual Bergman function develops distributional terms at the singular points.
 
-We introduce a **weighted** sum of Bergman kernels whose distributional terms cancel, yielding a smooth asymptotic expansion exactly analogous to the manifold case.
+We introduce a *weighted* sum of Bergman kernels whose distributional terms cancel, yielding a smooth asymptotic expansion exactly analogous to the manifold case.
 
 This leads to a *meta‑theorem*:  
 Any manifold result relying on Bergman kernel asymptotics extends to orbifolds if one uses this weighted sum.
@@ -621,7 +621,7 @@ Companion work [9] develops further applications.
 ## [9] Weighted Projective Embeddings, Stability of Orbifolds, and Constant Scalar Curvature Kähler Metrics  
 **with R. P. Thomas**  
 *Journal of Differential Geometry* 88: 109–160 (2011)  
-**Preprint:** https://arxiv.org/abs/0907.5214
+**Preprint:** [arXiv:0907.5214](https://arxiv.org/abs/0907.5214)
 
 We formulate a Yau–Tian–Donaldson type correspondence for orbifolds.
 
@@ -644,7 +644,7 @@ Extensions include possible orbifold analogues of Stoppa’s results on K‑stab
 ## [8] An inequality between Multipoint Seshadri constants  
 **with J. Roé**  
 *Geometriae Dedicata* 140: 175–181 (2009)  
-**Preprint:** https://arxiv.org/abs/0804.1662
+**Preprint:** [arXiv:0804.1662](https://arxiv.org/abs/0804.1662)
 
 We generalize an inequality of Roé for multipoint Seshadri constants.  
 The method: divide the points into subcollections, perform a degeneration to the normal cone, and apply semicontinuity of Seshadri constants.
@@ -656,7 +656,7 @@ This technique parallels methods used by Biran in related work.
 ## [7] Slope Stability and Exceptional Divisors of High Genus  
 **with D. Panov**  
 *Math. Ann.* 343(1): 79–101 (2009)  
-**Preprint:** https://arxiv.org/abs/0710.4078
+**Preprint:** [arXiv:0710.4078](https://arxiv.org/abs/0710.4078)
 
 This paper studies slope stability for polarized surfaces ($\dim = 2$).
 
@@ -673,7 +673,7 @@ The search for a strengthened slope‑type notion equivalent to K‑stability re
 ## [6] Deligne pairings and the Knudsen–Mumford expansion  
 **with D. Phong and J. Sturm**  
 *Journal of Differential Geometry* 78(3): 475–496 (2008)  
-**Preprint:** https://arxiv.org/abs/math/0612555
+**Preprint:** [arXiv:0612555](https://arxiv.org/abs/math/0612555)
 
 We revisit the CM line bundle, which appears in the algebraic formulation of K‑stability via the Hilbert–Mumford criterion.  
 The main result is an expression for the CM line bundle of a family of polarized varieties using the **Deligne pairing** construction.
@@ -687,14 +687,14 @@ This circle of ideas appears prominently in later foundational work of Berman on
 
 ## [5] Seshadri constants on symmetric products of curves  
 *Math. Res. Lett.* 14(1): 63–75 (2007)  
-**Preprint:** https://arxiv.org/abs/math/0608224
+**Preprint:** [arXiv:0608224](https://arxiv.org/abs/math/0608224)
 
 Seshadri constants measure local positivity of line bundles.  
 Although all known examples are rational, it is widely suspected that irrational examples exist.
 
-This paper studies Seshadri constants on **symmetric products of curves** and formulates several conjectures about their (ir)rationality.
+This paper studies Seshadri constants on symmetric products of curves and formulates several conjectures about their (ir)rationality.
 
-Using a degeneration to the **Franchetta curve**, following Ciliberto–Kouvidakis, we show that these conjectures follow from the classical Nagata conjecture.
+Using a degeneration to the Franchetta curve, following Ciliberto–Kouvidakis, we show that these conjectures follow from the classical Nagata conjecture.
 
 The results raise the possibility that Seshadri constants on symmetric products may be as difficult to compute as the Nagata problem itself.
 
@@ -703,7 +703,7 @@ The results raise the possibility that Seshadri constants on symmetric products 
 ## [4] A note on Positivity of the CM line bundle  
 **with J. Fine**  
 *International Mathematics Research Notices* (2006), Art. ID 95875  
-**Preprint:** https://arxiv.org/abs/math/0605302
+**Preprint:** [arXiv:0605302](https://arxiv.org/abs/math/0605302)
 
 The CM line bundle arises when interpreting K‑stability via Geometric Invariant Theory.  
 However, its positivity properties are subtle.
@@ -722,12 +722,12 @@ These examples illustrate complexities in the relationship between GIT and K‑s
 
 ## [3] Unstable products of smooth curves  
 *Inventiones Mathematicae* 165(1): 153–162 (2006)  
-**Preprint:** https://arxiv.org/abs/math/0506447
+**Preprint:** [arXiv:0506447](https://arxiv.org/abs/math/0506447)
 
 A folklore conjecture claimed that any Kähler class on a manifold with negative first Chern class admits a constant scalar curvature Kähler (cscK) metric.
 
 Using slope stability from [1], we disprove this:  
-certain products of smooth curves do **not** admit cscK metrics.
+certain products of smooth curves do *not* admit cscK metrics.
 
 Although the counterexamples initially involve special curves, later results show similar behavior for self‑products of *any* smooth curve.  
 This reflects the nongeneric nature of being a product in moduli.
@@ -737,12 +737,12 @@ This reflects the nongeneric nature of being a product in moduli.
 ## [2] A study of the Hilbert–Mumford criterion for the stability of projective varieties  
 **with R. P. Thomas**  
 *Journal of Algebraic Geometry* 16(2): 201–255 (2007)  
-**Preprint:** https://arxiv.org/abs/math/0412519
+**Preprint:** [arXiv:0412519](https://arxiv.org/abs/math/0412519)
 
 We analyze K‑stability by restricting the class of test configurations that need to be considered.
 
-Under technical hypotheses, the entire problem reduces to **slope stability**, as in [1].  
-This reduction holds unconditionally for curves — yielding the first purely algebro‑geometric proof that **smooth curves are K‑stable**.
+Under technical hypotheses, the entire problem reduces to *slope stability*, as in [1].  
+This reduction holds unconditionally for curves — yielding the first purely algebro‑geometric proof that smooth curves are K‑stable.
 
 The work anticipates later developments by Donaldson, Odaka, Székelyhidi, Li–Xu, and others.
 
@@ -751,11 +751,11 @@ The work anticipates later developments by Donaldson, Odaka, Székelyhidi, Li–
 ## [1] An obstruction to the existence of constant scalar curvature Kähler metrics  
 **with R. P. Thomas**  
 *Journal of Differential Geometry* 72(3): 429–466 (2006)  
-**Preprint:** https://arxiv.org/abs/math/0412518
+**Preprint:** [arXiv:0412518](https://arxiv.org/abs/math/0412518)
 
 This work and [2] grew out of the author’s PhD thesis.
 
-We introduce **slope stability for manifolds**, modeled on Mumford stability for sheaves.  
+We introduce *slope stability for manifolds*, modeled on Mumford stability for sheaves.  
 Slope stability is implied by K‑stability, and thus provides computable obstructions to the existence of cscK metrics.
 
 Results include:
