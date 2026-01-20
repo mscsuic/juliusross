@@ -228,7 +228,7 @@ a higher‑rank analogue of Khovanskii–Tessier inequalities.
 
 ## [31] Differentiability of the argmin function and a minimum principle for semiconcave subsolutions  
 **with D. Witt Nyström**  
-*Journal of Convex Analysis* 27(3): 811–832 (2020)**  
+*Journal of Convex Analysis* 27(3): 811–832 (2020) 
 **Preprint:** [arXiv:1808.04402](https://arxiv.org/abs/1808.04402)
 
 This paper has two main components:
@@ -412,7 +412,7 @@ We produce examples of:
 
 ## [21] Semi-continuity of Stability for Sheaves and Variation of Gieseker Moduli Spaces  
 **with D. Greb and M. Toma**  
-*Journal für die reine und angewandte Mathematik (Crelle)* January 20162019(749))
+*Journal für die reine und angewandte Mathematik (Crelle)* vol. 2019, no. 749, 2019, pp. 227-265)
 **Preprint:** [arXiv:1501.04440](https://arxiv.org/abs/1501.04440)
 
 We continue the study of variation of moduli spaces as stability conditions change.  
@@ -676,7 +676,7 @@ The search for a strengthened slope‑type notion equivalent to K‑stability re
 **Preprint:** [arXiv:0612555](https://arxiv.org/abs/math/0612555)
 
 We revisit the CM line bundle, which appears in the algebraic formulation of K‑stability via the Hilbert–Mumford criterion.  
-The main result is an expression for the CM line bundle of a family of polarized varieties using the **Deligne pairing** construction.
+The main result is an expression for the CM line bundle of a family of polarized varieties using the *Deligne pairing* construction.
 
 This yields equivalences between multiple formulations of the CM line bundle (e.g., Paul–Tian and Zhang).  
 We connect the algebraic Donaldson–Futaki invariant with asymptotic behavior of the K‑energy along test configurations.
@@ -712,9 +712,9 @@ In this paper, we study the CM line bundle as the leading term in an expansion o
 
 Main results:
 
-- the CM line bundle is **nonnegative** on the locus of K‑stable objects,  
-- it is **pseudoeffective** when this locus is nonempty,  
-- there exist **unstable** families where the CM line bundle is strictly **negative**.
+- the CM line bundle is nonnegative on the locus of K‑stable objects,  
+- it is pseudoeffective when this locus is nonempty,  
+- there exist unstable families where the CM line bundle is strictly **negative**.
 
 These examples illustrate complexities in the relationship between GIT and K‑stability.
 
