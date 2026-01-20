@@ -1,18 +1,13 @@
-aremote_theme: vaibhavvikas/jekyll-theme-minimalistic
-
+remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 title: Julius Ross
 description: Mathematician
-
 kramdown:
   input: kramdown
   math_engine: mathjax
-
-
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jemoji
-  
 navigation:
   - name: About
     link: ./
