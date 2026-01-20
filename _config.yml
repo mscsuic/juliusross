@@ -27,8 +27,6 @@ navigation:
   - name: Advising
     link: ./advising
     sublist:
-      - name: Undergraduate
-        link: ./undergraduate
       - name: Graduate
         link: ./graduate
       - name: Readings
