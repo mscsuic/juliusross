@@ -753,7 +753,7 @@ The work anticipates later developments by Donaldson, Odaka, Székelyhidi, Li–
 *Journal of Differential Geometry* 72(3): 429–466 (2006)  
 **Preprint:** [arXiv:0412518](https://arxiv.org/abs/math/0412518)
 
-This work and [2] grew out of the author’s PhD thesis.
+This work and [2] grew out of my PhD thesis.
 
 We introduce *slope stability for manifolds*, modeled on Mumford stability for sheaves.  
 Slope stability is implied by K‑stability, and thus provides computable obstructions to the existence of cscK metrics.
