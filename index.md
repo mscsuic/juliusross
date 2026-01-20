@@ -45,7 +45,7 @@ University of Illinois at Chicago,
 *About the cover image:*  
 During my last year of graduate school I lived on the pictured street in Islington, across from the hair salon called “Theorem”. Even more amusing, the green building on the corner was a taxidermy called “Get Stuffed!”.
 
-*Accessibility statement: Every effort has been made to ensure that this website is accessible.  If you find this not to be the case please reach out to the above email address*
+*Accessibility statement:* Every effort has been made to ensure that this website is accessible.  If you find this not to be the case please reach out to the above email address*
 
-*Work on this website is partially supported by National Science Foundation CAREER grant
+*Acknowledgements: * Some work on this website was partially supported by National Science Foundation CAREER grant
 “Stability, Kähler geometry and the Hele-Shaw flow” (DMS 1749447) and National Science Foundation grant “Analytic Methods in Complex Algebraic Geometry” (DMS 1707661).*
