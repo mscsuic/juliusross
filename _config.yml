@@ -3,7 +3,7 @@ aremote_theme: vaibhavvikas/jekyll-theme-minimalistic
 title: Julius Ross
 description: Mathematician
 
-logo: /media/juliusross.png
+logo: ./media/juliusross.png
 
 kramdown:
   input: kramdown
