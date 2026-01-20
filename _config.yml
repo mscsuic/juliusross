@@ -35,10 +35,6 @@ navigation:
         link: ./readings
   - name: Activities
     link: ./activities
-    sublist:
-      - name: Past Activities
-        link: ./pastactivities
-
   - name: Other
     link: ./other
     sublist:
