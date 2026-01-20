@@ -73,8 +73,7 @@
 <img alt="Poster of movie titled Death Proof" src="./media/movies/deathproof.png" width="180px">
 <img alt="Poster of movie titled Aftermath" src="./media/movies/aftermath.png" width="180px">
 
-
-
+Thanks to Ravi Vakil, Ewa Gallagher, Jason Behrstock, Nathan Kaplan, Arend Bayer for suggestions.  Anybody is welcome to email me with more.
 
 
 
