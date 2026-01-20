@@ -1,9 +1,9 @@
-remote_theme: vaibhavvikas/jekyll-theme-minimalistic
+aremote_theme: vaibhavvikas/jekyll-theme-minimalistic
 
 title: Julius Ross
 description: Mathematician
 
-logo: /images/juliusross.png
+logo: /media/juliusross.png
 
 kramdown:
   input: kramdown
