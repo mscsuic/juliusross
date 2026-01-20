@@ -3,6 +3,8 @@ remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 title: Julius Ross
 description: Mathematician
 
+logo: /images/juliusross.png
+
 kramdown:
   input: kramdown
   math_engine: mathjax
