@@ -38,6 +38,8 @@ navigation:
   - name: Other
     link: ./other
     sublist:
+      - name: Comics
+        link: ./comics
       - name: Pets
         link: ./pets
       - name: Movies
