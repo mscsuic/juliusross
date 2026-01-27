@@ -5,6 +5,16 @@ layout: default
 
 # Research
 
+## [44] Twisted scalar curvature as a moment map
+**with R. Dervan, T, Murphy, L. Martin Sektnan, X. Wang**
+** Preprint [arXiv:2601.18141](https://arxiv.org/abs/2601.18141)
+
+We consider three frameworks in which the twisted scalar curvature appears as a moment map.  The first framework is the space of morphisms $X\to Y$ to a fixed base $Y$ (or families of such maps).  The second framework is the space of submersions $\pi:X\to B$ (or families of submersions).  And the third framework is that of an algebraic foliation.   The novelty here compared to previous work is that we get a *coupled system*.  In the case of submersions this coupled system involves the scalar curvature of the fibres of $\pi$ coupled with the twisted scalar curvature of the base $B$.
+
+In addition to these moment maps we also construct the corresponding *Futaki invariant* and prove that it really is an invariant (i.e. depends only on the given cohomology class, not on any chosen representative).   
+
+This work was a long time in the making, and stems from a very enjoyable SqUaREs group funded by the American Institute of Mathematics.
+
 ## [43] Generalized Bogomolov Inequalities  
 **with M. Pavel and M. Toma**  
 **Preprint:** [arXiv:2510.04663](https://arxiv.org/abs/2510.04663)
