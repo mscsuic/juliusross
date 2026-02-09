@@ -7,7 +7,8 @@ layout: default
 
 ## [44] Twisted scalar curvature as a moment map
 **with R. Dervan, T, Murphy, L. Martin Sektnan, X. Wang**
-**Preprint** [arXiv:2601.18141](https://arxiv.org/abs/2601.18141)
+
+**Preprint:** [arXiv:2601.18141](https://arxiv.org/abs/2601.18141)
 
 We consider three frameworks in which the twisted scalar curvature appears as a moment map.  The first framework is the space of morphisms $X\to Y$ to a fixed base $Y$ (or families of such maps).  The second framework is the space of submersions $\pi:X\to B$ (or families of submersions).  And the third framework is that of an algebraic foliation.   The novelty here compared to previous work is that we get a *coupled system*.  In the case of submersions this coupled system involves the scalar curvature of the fibres of $\pi$ coupled with the twisted scalar curvature of the base $B$.
 
@@ -15,8 +16,11 @@ In addition to these moment maps we also construct the corresponding *Futaki inv
 
 This work was a long time in the making, and stems from a very enjoyable SqUaREs group funded by the American Institute of Mathematics.
 
+---
+
 ## [43] Generalized Bogomolov Inequalities  
 **with M. Pavel and M. Toma**  
+
 **Preprint:** [arXiv:2510.04663](https://arxiv.org/abs/2510.04663)
 
 We introduce two notions, the first being a Hodge-Riemann pair and the second is that of a Bogomolov Pair. In both cases this can be either a pair of cohomology classes or a pair of forms; for simplicity in this summary we just consider the case of classes.
@@ -29,6 +33,7 @@ We give a list of known Hodge-Riemann pairs (essentially all taken from my previ
 
 ## [42] Realization of Cohomology Classes in Grassmannians  
 **with I. Coskun**  
+
 **Preprint:** [arXiv:2509.03747](https://arxiv.org/abs/2509.03747)
 
 In this work we look at which cohomology classes in the Grassmannian $G(k,n)$ can be represented by an irreducible variety. This question can also be asked over $\mathbb{Q}$ by which we mean to find which cohomology classes have a positive multiple that can be represented by an irreducible variety. In this paper we solve this problem for dimension 2, dimension 3, codimension 2, and codimension 3 classes in all Grassmannians. We also do more for other specific Grassmannians.
@@ -38,6 +43,7 @@ This work was influenced by work of Huh and others. Huh in particular has looked
 ---
 
 ## [41] Accessibility for the Working Mathematician  
+
 **Preprint:** [arXiv:2505.22667](https://arxiv.org/abs/2505.22667)
 
 This document is an informal introduction to the topic of creating accessible electronic documents, in particular those that are created by mathematics teachers and researchers. When I came to this topic I was hoping to find a one-page "guide" that would tell me all that I needed to know. Upon exploration I now understand that asking for such a guide was a little naive since the topic is a little more complicated (but not that complicated), and so I set about writing this slightly longer guide.
@@ -48,6 +54,7 @@ I hope that this will be useful to others, at least it may save them time that I
 
 ## [40] Uniform boundedness of semistable pure sheaves on projective manifolds  
 **with M. Pavel and M. Toma**  
+
 **Preprint:** [arXiv2403.12855](https://arxiv.org/abs/2403.12855)
 
 When considering moduli spaces of sheaves, a first property that one wants to prove is boundedness to ensure that these moduli spaces are of finite type (i.e. have finitely many irreducible components). For sheaves one usually imposes some kind of stability notion to ensure this boundedness. Once such moduli spaces have been constructed, it is interesting to ask how they change when this choice of stability changes and to do this in the best possible way one really wants some kind of uniform boundedness (that holds, say, as the stability condition varies within a compact set).
@@ -60,6 +67,7 @@ More should be true, and we have conjectures about even stronger uniform bounded
 
 ## [39] Schur positivity of difference of products of derived Schur polynomials  
 **with K. Wu**  
+
 **Preprint:** [arXiv:2403.04101](https://arxiv.org/abs/2403.04101)
 
 This follows up on work in [35] in which we consider again our so-called derived Schur polynomials $s_{\lambda}^{(i)}$ defined by the rule
@@ -88,6 +96,7 @@ Update: This conjecture has been proved by Lu-Zheng [arXiv:2506.16992](https://a
 
 ## [38] Harmonic Interpolation and a Brunn-Minkowski Theorem for Random Determinants  
 **with D. Witt Nyström**  
+
 In *Convex and Complex: Perspectives on Positivity in Geometry*, Publication: Contemporary Mathematics Publication Year: 2025; Volume 810
 **Preprint:** [arXiv:2310.09697](https://arxiv.org/abs/2310.09697)
 
@@ -97,6 +106,7 @@ This builds on [36]. We give a self-contained description of our harmonic interp
 
 ## [37] Dually Lorentzian Polynomials  
 **with H. Seuss and T. Wannerer**  
+
 *Monatsh Math* 208, 495–524 (2025)
 **Preprint:** [arXiv:2304.08399](https://arxiv.org/abs/2304.08399)
 
