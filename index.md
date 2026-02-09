@@ -42,8 +42,7 @@ University of Illinois at Chicago,
 **Telephone:** (+1) 312-416-3044  
 **Pronouns:** he/him
 
-*About the cover image:*  
-During my last year of graduate school I lived on the pictured street in Islington, across from the hair salon called “Theorem”. Even more amusing, the green building on the corner was a taxidermy called “Get Stuffed!”.
+*About the cover image:*  During my last year of graduate school I lived on the pictured street in Islington, across from the hair salon called “Theorem”. Even more amusing, the green building on the corner was a taxidermy called “Get Stuffed!”.
 
 *Accessibility statement:* Every effort has been made to ensure that this website is accessible.  If you find this not to be the case please reach out to the above email address*
 
