@@ -7,7 +7,7 @@ layout: default
 
 ## [44] Twisted scalar curvature as a moment map
 **with R. Dervan, T, Murphy, L. Martin Sektnan, X. Wang**
-** Preprint [arXiv:2601.18141](https://arxiv.org/abs/2601.18141)
+**Preprint** [arXiv:2601.18141](https://arxiv.org/abs/2601.18141)
 
 We consider three frameworks in which the twisted scalar curvature appears as a moment map.  The first framework is the space of morphisms $X\to Y$ to a fixed base $Y$ (or families of such maps).  The second framework is the space of submersions $\pi:X\to B$ (or families of submersions).  And the third framework is that of an algebraic foliation.   The novelty here compared to previous work is that we get a *coupled system*.  In the case of submersions this coupled system involves the scalar curvature of the fibres of $\pi$ coupled with the twisted scalar curvature of the base $B$.
 
