@@ -41,12 +41,14 @@
 <img alt="Poster of movie titled Theory" src="./media/movies/theory.jpg" width="180px">
 <img alt="Poster of movie titled The Ring" src="./media/movies/thering.jpg" width="180px">
 <img alt="Poster of movie titled The Scheme" src="./media/movies/thescheme.jpg" width="180px">
-<img alt="Poster of movie titled Trigonometry" src="./media/movies/trig.jpg" width="180px">
 <img alt="Poster of movie titled True" src="./media/movies/true.jpg" width="180px">
 <img alt="Poster of movie titled Infinite" src="./media/movies/infinite.jpg" width="180px">
+<img alt="Poster of movie titled Pure" src="./media/movies/pure.jpg" width="180px">
 <img alt="Poster of movie titled Face" src="./media/movies/face.jpg" width="180px">
 <img alt="Poster of movie titled Edge" src="./media/movies/edge.jpg" width="180px">
 <img alt="Poster of movie titled Vertex" src="./media/movies/vertex.jpg" width="180px">
+<img alt="Poster of movie titled Identity" src="./media/movies/identity.jpg" width="180px">
+<img alt="Poster of movie titled Equals" src="./media/movies/equals.jpg" width="180px">
 <img alt="Poster of movie titled Trigonometry" src="./media/movies/trigonometry.jpg" width="180px">
 <img alt="Poster of movie titled Zero" src="./media/movies/zero.jpg" width="180px">
 <img alt="Poster of movie titled Class" src="./media/movies/class.jpg" width="180px">
