@@ -5,7 +5,7 @@
     outline: 2px solid white;
   }
 </style>
-
+ 
 <img alt="Poster of movie titled 3.14" src="./media/movies/314.jpg" width="180px">
 <img alt="Poster of movie titled Q" src="./media/movies/Q.jpg" width="180px">
 <img alt="Poster of movie titled R" src="./media/movies/R.jpg" width="180px">
