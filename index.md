@@ -46,5 +46,5 @@ University of Illinois at Chicago,
 
 *Accessibility statement:* Every effort has been made to ensure that this website is accessible.  If you find this not to be the case please reach out to the above email address*
 
-*Acknowledgements: * Some work on this website was partially supported by National Science Foundation CAREER grant
+*Acknowledgements:* Some work on this website was partially supported by National Science Foundation CAREER grant
 “Stability, Kähler geometry and the Hele-Shaw flow” (DMS 1749447) and National Science Foundation grant “Analytic Methods in Complex Algebraic Geometry” (DMS 1707661).*
