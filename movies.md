@@ -48,19 +48,18 @@
 <img alt="Poster of movie titled Edge" src="./media/movies/edge.jpg" width="180px">
 <img alt="Poster of movie titled Vertex" src="./media/movies/vertex.jpg" width="180px">
 <img alt="Poster of movie titled Identity" src="./media/movies/identity.jpg" width="180px">
-<img alt="Poster of movie titled Equals" src="./media/movies/equals.jpg" width="180px">
 <img alt="Poster of movie titled Trigonometry" src="./media/movies/trigonometry.jpg" width="180px">
 <img alt="Poster of movie titled Zero" src="./media/movies/zero.jpg" width="180px">
 <img alt="Poster of movie titled Class" src="./media/movies/class.jpg" width="180px">
 <img alt="Poster of movie titled Normal" src="./media/movies/normal.jpg" width="180px">
 <img alt="Poster of movie titled Circle" src="./media/movies/circle.jpg" width="180px">
 <img alt="Poster of movie titled Prime" src="./media/movies/prime.jpg" width="180px">
+<img alt="Poster of movie titled Equals" src="./media/movies/equals.jpg" width="180px">
 <img alt="Poster of movie titled The Equalizer" src="./media/movies/equalizer.jpg" width="180px">
 <img alt="Poster of movie titled The Equalizer 2" src="./media/movies/equalizer2.jpg" width="180px">
 <img alt="Poster of movie titled Intersection" src="./media/movies/intersection.jpg" width="180px">
 <img alt="Poster of movie titled Union" src="./media/movies/union.jpg" width="180px">
 <img alt="Poster of movie titled Parallel" src="./media/movies/parallel.jpg" width="180px">
-<img alt="Poster of movie titled Identity" src="./media/movies/identity.jpg" width="180px">
 <img alt="Poster of movie titled The Group" src="./media/movies/thegroup.jpg" width="180px">
 <img alt="Poster of movie titled A Perfect Pairing" src="./media/movies/perfectpairing.jpg" width="180px">
 <img alt="Poster of movie titled Zeroes" src="./media/movies/zeroes.jpg" width="180px">
