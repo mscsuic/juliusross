@@ -60,6 +60,7 @@
 <img alt="Poster of movie titled Intersection" src="./media/movies/intersection.jpg" width="180px">
 <img alt="Poster of movie titled Union" src="./media/movies/union.jpg" width="180px">
 <img alt="Poster of movie titled Parallel" src="./media/movies/parallel.jpg" width="180px">
+<img alt="Poster of movie titled Pure" src="./media/movies/pure.jpg" width="180px">
 <img alt="Poster of movie titled The Group" src="./media/movies/thegroup.jpg" width="180px">
 <img alt="Poster of movie titled A Perfect Pairing" src="./media/movies/perfectpairing.jpg" width="180px">
 <img alt="Poster of movie titled Zeroes" src="./media/movies/zeroes.jpg" width="180px">
