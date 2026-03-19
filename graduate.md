@@ -8,10 +8,10 @@ Appropriate first and second-year courses to take include MATH535, MATH546, MATH
 
 ## Current and Past Students
 
-- Shin Kim (PhD, UIC, 2022-present)
-- Jaegon Shin (PhD, UIC, 2021-present)
-- Kuang Wu (PhD, UIC, 2019-present)
-- Jinhua Xu (PhD, UIC, 2018-present)
+- Shin Kim (PhD, UIC, 2022-2026)
+- Jaegon Shin (PhD, UIC, 2021-2026)
+- Kuang Wu (PhD, UIC, 2019-2025)
+- Jinhua Xu (PhD, UIC, 2018-2022)
 - Ruadhaí Dervan (PhD, University of Cambridge 2012-16, first position Cambridge University)
 - Anton Isopoussu (PhD, University of Cambridge, 2010-15, first position Nokia Technologies)
 - Andrea Tirelli (ERASMUS exchange student, University of Cambridge, joint with Jacopo Stoppa)
