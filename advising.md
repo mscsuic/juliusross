@@ -10,3 +10,5 @@ From any project you should be able to produce at least five papers: The Origina
 Academia is not a sprint, nor is it a marathon.  It is an infinite sequence of sprints and marathons, many of which you are expected to run concurrently.
 
 It's not who you know. It's not what you know. It's what the people you know know.
+
+Marriage is all about compromise.  Science is all about approximation.
