@@ -11,4 +11,3 @@ Academia is not a sprint, nor is it a marathon.  It is an infinite sequence of s
 
 It's not who you know. It's not what you know. It's what the people you know know.
 
-Marriage is all about compromise.  Science is all about approximation.
