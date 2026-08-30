@@ -26,6 +26,7 @@
 <img alt="Poster of movie titled λπ" src="./media/movies/lambdapi.jpg" width="180px">
 <img alt="Poster of movie titled Lattice" src="./media/movies/lattice.png" width="180px">
 <img alt="Poster of movie titled Manifold" src="./media/movies/manifold.jpg" width="180px">
+<img alt="Poster of movie titled Surface" src="./media/movies/surface.jpg" width="180px">
 <img alt="Poster of movie titled Matrix" src="./media/movies/matrix.jpg" width="180px">
 <img alt="Poster of movie titled Multiplicity" src="./media/movies/multiplicity.jpg" width="180px">
 <img alt="Poster of movie titled π" src="./media/movies/pi.jpg" width="180px">
